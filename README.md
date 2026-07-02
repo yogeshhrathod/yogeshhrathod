@@ -1,114 +1,75 @@
-<div align="center">
 
-  <!-- DYNAMIC HEADER BACKGROUND -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=SYSTEM%20ONLINE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Init:%20Yogesh%20Rathod%20Profile&descAlignY=55&descAlign=62" width="100%" />
+# Hey, I'm Yogesh.
 
-  <!-- TYPING SUB-HEADER -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=21E6C1&center=true&vCenter=true&width=600&lines=INITIATING+PROFILE_SEQUENCE...;LOADING+DEVELOPER+TRAITS...;SUCCESS:+FULL+STACK+DEVELOPER+IDENTIFIED" alt="Typing SVG" />
+I have a habit of asking questions that turn into projects.
 
-  <br/><br/>
+Questions like...
 
-  <!-- SOCIAL CONTROL PANEL -->
-  <a href="https://www.linkedin.com/in/rathod-yogesh/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-  &nbsp;
-  <a href="mailto:yrathod33@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/yogeshhrathod">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
-  </a>
+> Why does this take so many clicks?  
+> Why can't software feel this smooth?  
+> Can a MacBook trackpad become a musical instrument?  
+> How does spatial audio know where sound should come from?  
+> What if this tiny interaction was just... better?
 
-  <br/><br/>
-  
-  <!-- VISITOR COUNTER -->
-  <img src="https://komarev.com/ghpvc/?username=yogeshhrathod&label=TRAFFIC_LOGS&color=0e75b6&style=for-the-badge" alt="Views" />
+Most people move on after asking those questions.
 
-</div>
+I usually end up building something.
 
-<br/>
+---
 
-<!-- TERMINAL / ABOUT ME GUI -->
-<div align="center">
-<table>
-  <tr>
-    <td align="left" width="500px">
-      <h3 align="center">🧬 BIOMETRICS / STATUS</h3>
-      <pre>
-> 🔭 **CURRENT_ORBIT**: @Qualys
-> 🌱 **SEED_DATA**:     Learning System Design
-> 👯 **PROTOCOL**:      Looking to collaborate on Open Source
-> 💬 **COMM_FREQ**:     JS, Vue, React, Node.js
-> ⚡ **POWER_LEVEL**:   Coffee to Code transducer
-      </pre>
-    </td>
-    <td align="center" width="300px">
-      <h3 align="center">⚡ ACITIVITY_GRAPH</h3>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshhrathod&theme=react&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF" alt="streak" />
-    </td>
-  </tr>
-</table>
-</div>
+I'm less interested in writing code and more interested in creating experiences.
 
-<br/>
+I love products that quietly disappear into your workflow—the ones that feel obvious after you've used them once. The kind where every animation, shortcut, sound, and tiny detail just feels right.
 
-<!-- SKILLS DASHBOARD -->
-<h3 align="center">🛠️ TECH_ARSENAL</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90"><b>CORE</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="90"><b>FRONTEND</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,redux" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="90"><b>BACKEND</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="90"><b>DB & CLOUD</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,aws,docker" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="90"><b>TOOLS</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-      </td>
-    </tr>
-  </table>
-</div>
+That's probably why I spend far too much time polishing things nobody asked me to polish.
 
-<br/>
+And honestly, I enjoy every minute of it.
 
-<!-- GITHUB STATS -->
-<h3 align="center">📊 SYSTEM_METRICS</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogeshhrathod&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=21E6C1&title_color=21E6C1" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshhrathod&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=21E6C1" height="180" />
-</div>
+---
 
-<br/>
+## What you'll find here
 
-<!-- TROPHIES -->
-<h3 align="center">🏆 ACHIEVEMENTS</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yogeshhrathod&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
+- 🛠️ Developer tools I'd actually use.
+- 🤖 AI projects that solve real problems instead of chasing hype.
+- 🎹 Random experiments that somehow become serious projects.
+- ✨ Tiny ideas that refused to stay as notes.
 
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
-</div>
+Not everything is finished.
+
+Not everything is a startup.
+
+Some projects exist simply because I wanted to know if they were possible.
+
+---
+
+## A pretty accurate description of my life
+
+```
+Notice something annoying
+        ↓
+"There has to be a better way."
+        ↓
+Open a new repository
+        ↓
+Spend an unreasonable amount of time on details
+        ↓
+Learn something new
+        ↓
+Repeat
+```
+
+---
+
+Outside of coding, I'm usually learning music, planning my next trip, reading about how great products were built, or disappearing down an internet rabbit hole that somehow circles back to building software.
+
+I believe the best products make people forget they're using software.
+
+That's what I'm chasing.
+
+---
+
+If one of these projects makes you think,
+
+*"Wait... why didn't anyone build this before?"*
+
+then I've probably done something right.
